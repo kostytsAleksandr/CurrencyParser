@@ -1,0 +1,16 @@
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.csprojAssemblyReference.cache
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.AssemblyInfo.cs
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\CurrencyParserConsole.exe
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\CurrencyParserConsole.deps.json
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\CurrencyParserConsole.runtimeconfig.json
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\CurrencyParserConsole.runtimeconfig.dev.json
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\CurrencyParserConsole.dll
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\CurrencyParserConsole.pdb
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.csproj.CopyComplete
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.dll
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.pdb
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\obj\Debug\netcoreapp3.1\CurrencyParserConsole.genruntimeconfig.cache
+C:\Users\Aleksandr\Documents\GitHub\CurrencyParser\CurrencyParserConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
