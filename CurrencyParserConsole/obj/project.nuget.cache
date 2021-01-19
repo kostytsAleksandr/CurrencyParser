@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+bqEjgnCxQi0JmrHrVcyJW7HQyci19/H1r8LFGPiiNwW5p3PLsCfOpN9eFytdqFuQVjZVsvm1FEDz6SUyUIZug==",
+  "dgSpecHash": "qb/3cP0p0nIjdWm7E8j/DmTHvxS0pXR5X8XruiVfQet3x16KV6Z8vA8Df3Wfcwj0Cr0Xfu44VF0wwflYnILwYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aleksandr\\Documents\\GitHub\\CurrencyParser\\CurrencyParserConsole\\CurrencyParserConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandr\\.nuget\\packages\\htmlagilitypack\\1.11.29\\htmlagilitypack.1.11.29.nupkg.sha512",
+    "C:\\Users\\Aleksandr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
